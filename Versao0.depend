@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1571158152 source:d:\batman\2ano\aulased\2sem\forca2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcao.h"
+
+1571158138 d:\batman\2ano\aulased\2sem\forca2.0\funcao.h
+
+1571158204 source:d:\batman\2ano\aulased\2sem\forca2.0\funcao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcao.h"
+
